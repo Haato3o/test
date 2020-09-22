@@ -51,7 +51,7 @@ class AutoHasher():
     def SaveJson(self):
         with open("module.json", "r") as module:
             modInfo = json.load(module)
-        modInfo['FileHashes'] = self.Hashes
+        modInfo['Update']['FileHashes'] = self.Hashes
         with open("module.json", "w") as HashesFile:
             json.dump(modInfo, HashesFile, indent=4)
 
