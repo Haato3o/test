@@ -5,7 +5,7 @@
     "Version": "1.0.0",
     "Dependencies": [],
     "Update": {
-        "UpdateUrl": "https://raw.githubusercontent.com/Haato3o/test/master/PluginAutoUpdateTest/binaries",
+        "UpdateUrl": "https://raw.githubusercontent.com/Haato3o/test/master/binaries/",
         "MinimumVersion": "1.0.3.97"
     },
     "FileHashes": {
