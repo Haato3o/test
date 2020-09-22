@@ -12,7 +12,7 @@ class AutoHasher():
     ]
 
     def __init__(self):
-        self.Hashes = {}
+        self.Hashes = []
     
     def Hash(self):
         self.GetHash(None)
@@ -46,7 +46,10 @@ class AutoHasher():
             if (os.path.isdir(os.path.join(path if path != None else "", subpath))):
                 self.GetHash(os.path.join(path if path != None else "", subpath))
             else:
-                self.Hashes[os.path.join(path if path != None else "", subpath)] = self.GetHashDynamicallyBasedOnFileType(os.path.join(path if path != None else "", subpath))
+                self.Hashes.append({
+                    "FileName": os.path.join(path if path != None else "", subpath),
+                    "Sha256": self.GetHashDynamicallyBasedOnFileType(os.path.join(path if path != None else "", subpath))
+                })
 
     def SaveJson(self):
         with open("module.json", "r") as module:
