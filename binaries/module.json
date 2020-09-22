@@ -8,6 +8,7 @@
         "UpdateUrl": "https://raw.githubusercontent.com/Haato3o/test/master/binaries/",
         "MinimumVersion": "1.0.3.97",
         "FileHashes": {
+            "config.json": "InstallOnly",
             "MyTestFolder\\hi.txt": "c7be1ed902fb8dd4d48997c6452f5d7e509fbcdbe2808b16bcf4edce4c07d14e",
             "PluginAutoUpdateTest.dll": "2c4566d8a083ea38136e9464945616cdb78332d42236c3b326121c624c46c699"
         }
