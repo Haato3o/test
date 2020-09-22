@@ -5,6 +5,7 @@
   "Version": "1.0.0",
   "Dependencies": [],
   "Update": {
-    "UpdateUrl": ""
+    "UpdateUrl": "https://raw.githubusercontent.com/Haato3o/test/master/PluginAutoUpdateTest/binaries",
+    "MinimumVersion": "1.0.3.97"
   }
 }

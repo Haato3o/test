@@ -12,3 +12,5 @@ D:\dev\test\PluginAutoUpdateTest\obj\x64\Release\PluginAutoUpdateTest.csproj.Cor
 D:\dev\test\PluginAutoUpdateTest\obj\x64\Release\PluginAutoUpdateTest.csproj.CopyComplete
 D:\dev\test\PluginAutoUpdateTest\obj\x64\Release\PluginAutoUpdateTest.dll
 D:\dev\test\PluginAutoUpdateTest\obj\x64\Release\PluginAutoUpdateTest.pdb
+D:\dev\test\PluginAutoUpdateTest\bin\x64\Release\module.json
+D:\dev\test\PluginAutoUpdateTest\obj\x64\Release\PluginAutoUpdateTest.csprojAssemblyReference.cache
