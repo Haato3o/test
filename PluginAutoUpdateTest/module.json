@@ -1,0 +1,10 @@
+{
+  "Name": "AutoUpdateTest",
+  "Description": "Testing HunterPie's plugin auto update system",
+  "Author": "Haato",
+  "Version": "1.0.0",
+  "Dependencies": [],
+  "Update": {
+    "UpdateUrl": ""
+  }
+}

@@ -1,0 +1,15 @@
+D:\dev\test\PluginAutoUpdateTest\bin\Debug\PluginAutoUpdateTest.dll
+D:\dev\test\PluginAutoUpdateTest\bin\Debug\PluginAutoUpdateTest.pdb
+D:\dev\test\PluginAutoUpdateTest\bin\Debug\HunterPie.exe
+D:\dev\test\PluginAutoUpdateTest\bin\Debug\System.Collections.Immutable.dll
+D:\dev\test\PluginAutoUpdateTest\bin\Debug\System.Memory.dll
+D:\dev\test\PluginAutoUpdateTest\bin\Debug\Newtonsoft.Json.dll
+D:\dev\test\PluginAutoUpdateTest\bin\Debug\System.Numerics.Vectors.dll
+D:\dev\test\PluginAutoUpdateTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\dev\test\PluginAutoUpdateTest\bin\Debug\System.Buffers.dll
+D:\dev\test\PluginAutoUpdateTest\bin\Debug\HunterPie.exe.config
+D:\dev\test\PluginAutoUpdateTest\obj\Debug\PluginAutoUpdateTest.csprojAssemblyReference.cache
+D:\dev\test\PluginAutoUpdateTest\obj\Debug\PluginAutoUpdateTest.csproj.CoreCompileInputs.cache
+D:\dev\test\PluginAutoUpdateTest\obj\Debug\PluginAutoUpdateTest.csproj.CopyComplete
+D:\dev\test\PluginAutoUpdateTest\obj\Debug\PluginAutoUpdateTest.dll
+D:\dev\test\PluginAutoUpdateTest\obj\Debug\PluginAutoUpdateTest.pdb
