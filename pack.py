@@ -14,3 +14,5 @@ relativePath = "PluginAutoUpdateTest\\bin\\x64\\Release"
 for f in os.listdir(relativePath):
     if (f.replace(relativePath, "") in filesToMove):
         os.rename(f"{relativePath}\\{f}", f"binaries\\{f.replace(relativePath, '')}")
+
+        #test
